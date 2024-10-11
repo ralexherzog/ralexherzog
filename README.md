@@ -1,6 +1,13 @@
-Hello
-Im new and inexperienced. 
+Hello,
+Working towards being a data analyst, watch my progress here.
 
-This is where youll see me grow.
+My main goals are to master python, pandas, excel, R and SQL.
 
-'Elp. 
+The current project(s) I'm working on:
+
+Python
+Warthunder Wiki Data Extraction, pulls data and outputs a spreadsheet for all planes in the game warthunder
+Maverick, a program that uses these stats to play out a simple 'dogfight'
+
+Tableau
+Warthunder Dashboard, use the data to build an interactive visual for the plane statistics.
